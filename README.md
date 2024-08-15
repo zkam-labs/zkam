@@ -35,7 +35,7 @@ Our procedure works as follows:
 
 ## Acknowledgements
 
-`zkam` was initially developed as part of the ZK/Privacy Track of the [Level Up Hackathon in Buenos Aires, 2024](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024). We attended this hackathon as part of our participation in the [PSE Core Program](https://pse.dev/en/programs), a six-week program focused on learning the fundamentals and latest developments in programmable cryptography, zero-knowledge proofs, and more.
+We attended this hackathon as part of our participation in the [PSE Core Program](https://pse.dev/en/programs), a six-week program focused on learning the fundamentals and latest developments in programmable cryptography, zero-knowledge proofs, and more.
 
 ## License
 
