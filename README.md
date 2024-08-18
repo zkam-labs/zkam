@@ -15,8 +15,9 @@ Introducing zkam, the photo authentication app that leverages zero-knowledge pro
 Whether you're a photographer protecting your work, a journalist verifying sources, or anyone concerned about image authenticity in the digital age, zkam provides a powerful, user-friendly solution for proving photo ownership and authenticity without revealing sensitive information.
 
 ## Repository Structure
+- **[ZK Circuits](https://github.com/zkam-labs/zkam/tree/main/zkproof)**: This directory contains the implementation and related files for generating and verifying zero-knowledge proofs for the main circuits defined in the project.
 -  **[Front-end Code](https://github.com/NicolasBiondini/zkam)**: This directory contains the source code for the front-end application, including UI components, state management, and API integrations.
-- **[Smart Contract Code](https://sepolia.scrollscan.com/address/0xc039b3B46814D8388e5205D37Dd0D154D806F1f4)**: This address includes the smart contract code written in Solidity and deployed in Scroll.
+- **[Smart Contract Code](https://sepolia.scrollscan.com/address/0xc039b3B46814D8388e5205D37Dd0D154D806F1f4)**: This address includes the smart contract code written in Solidity, deployed on Scroll, and used to manage and verify user signatures.
 
 ## How does it work?
 
